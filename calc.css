@@ -1,0 +1,66 @@
+body{
+    background-color: gray;
+}
+#main{
+    background-color: white;
+    height:525px;
+    width:360px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 430px;
+    margin-right: 450px;
+    margin-top: 150px;
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+h1{
+    background-color: maroon;
+    color:white;
+    margin: 0px -30px;
+    padding:5px 100px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-size: 23px;
+}
+#bill{
+    width:250px;
+    height:50px;
+} 
+#num{
+    width:250px;
+    height:40px;
+}  
+     
+    
+    
+
+
+#calculator{
+    background-color: white;
+    padding-left:30px;
+}
+select{
+    width:270px;
+    height:60px;
+}
+button{
+    width:270px;
+    height:50px;
+    padding: 10px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    background-color:maroon ;
+}
+#totalTip{
+    text-align: center;
+    font-size:20px;
+}
+
+
+    
+    
